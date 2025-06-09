@@ -1,0 +1,14 @@
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.AssemblyInfoInputs.cache
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.AssemblyInfo.cs
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.csproj.CoreCompileInputs.cache
+C:\WNS_Training\Library_Mnagement\bin\Debug\net9.0\Library_Mnagement.exe
+C:\WNS_Training\Library_Mnagement\bin\Debug\net9.0\Library_Mnagement.deps.json
+C:\WNS_Training\Library_Mnagement\bin\Debug\net9.0\Library_Mnagement.runtimeconfig.json
+C:\WNS_Training\Library_Mnagement\bin\Debug\net9.0\Library_Mnagement.dll
+C:\WNS_Training\Library_Mnagement\bin\Debug\net9.0\Library_Mnagement.pdb
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.dll
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\refint\Library_Mnagement.dll
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.pdb
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.genruntimeconfig.cache
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\ref\Library_Mnagement.dll
