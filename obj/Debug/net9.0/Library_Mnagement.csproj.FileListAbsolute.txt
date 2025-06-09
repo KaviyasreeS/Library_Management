@@ -12,3 +12,4 @@ C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\refint\Library_Mnagement.dll
 C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.pdb
 C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.genruntimeconfig.cache
 C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\ref\Library_Mnagement.dll
+C:\WNS_Training\Library_Mnagement\obj\Debug\net9.0\Library_Mnagement.sourcelink.json
